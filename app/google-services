@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "561091384006",
+    "firebase_url": "https://offersbymall-93fb1.firebaseio.com",
+    "project_id": "offersbymall-93fb1",
+    "storage_bucket": "offersbymall-93fb1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:561091384006:android:0516abaf32572e9b",
+        "android_client_info": {
+          "package_name": "com.example.adarsh.offersbymall"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "561091384006-3lpjvasbea0i2d5i2rhj4pmcokdb5rfq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.adarsh.offersbymall",
+            "certificate_hash": "6DEA3D8FE501D1124D41487F465954F280998503"
+          }
+        },
+        {
+          "client_id": "561091384006-7emuo6c46o80saiemhs0oqguhka7i1vr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBoy1zmQ_9h8m1i1wHaTURnKI51G_EC40M"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "561091384006-7emuo6c46o80saiemhs0oqguhka7i1vr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

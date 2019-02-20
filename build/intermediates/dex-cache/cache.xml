@@ -1,0 +1,752 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Purusharth\AndroidStudioProjects\OffersByMall\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="ba47b210d36301e237ccfea860eaada04590f12a">
+        <dex dex="C:\Users\Purusharth\AndroidStudioProjects\OffersByMall\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-analytics-9.4.0_8382b91b2e23f19e1efc3d4b07ea93919da0c79f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Purusharth\AndroidStudioProjects\OffersByMall\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-drive\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="8ce5e7a4a146dddd1d9e66b09c714a6c149916d8">
+        <dex dex="C:\Users\Purusharth\AndroidStudioProjects\OffersByMall\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-drive-9.4.0_2ae148c3119e6406aec074139aa3ad37474c1cfc\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Purusharth\AndroidStudioProjects\OffersByMall\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-nearby\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="461e4257888c25ec05abcd91e758fe7f4949230a">
+        <dex dex="C:\Users\Purusharth\AndroidStudioProjects\OffersByMall\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-nearby-9.4.0_dcad2c1b9c1216ae2dcbba453e6fb89b6a5e6399\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Purusharth\AndroidStudioProjects\OffersByMall\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="d8bd2268fdcbfd52c76ade65d9900cd8def93a44">
+        <dex dex="C:\Users\Purusharth\AndroidStudioProjects\OffersByMall\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-24.2.0_4f6e03947bc74cd95676d3b6a1845342d22e9611\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Purusharth\AndroidStudioProjects\OffersByMall\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="618485fef3ebe12127f7622abbc9b5b39057b5c2">
+        <dex dex="C:\Users\Purusharth\AndroidStudioProjects\OffersByMall\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-basement-9.4.0_4d39646b67ef051aef27b9d008e6c5ae2505a295\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Purusharth\AndroidStudioProjects\OffersByMall\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="3b7173b3df4c7029699919414400041f64519e34">
+        <dex dex="C:\Users\Purusharth\AndroidStudioProjects\OffersByMall\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-iid-9.4.0_ea6b63262cbdb6f9cb6408089216faa5bd74a95f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Purusharth\AndroidStudioProjects\OffersByMall\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="45f5eda279825ff470e3f51019d374d1ef61e000">
+        <dex dex="C:\Users\Purusharth\AndroidStudioProjects\OffersByMall\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-24.2.0_39bdda0422d7791d407b4265f329a242c696b84d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Purusharth\AndroidStudioProjects\OffersByMall\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="60d7b23621d31e6f42f4f76f16af467e57a20cda">
+        <dex dex="C:\Users\Purusharth\AndroidStudioProjects\OffersByMall\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.0_58423b917715003ff8b1c427fb2e159dfa96cd8c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Purusharth\AndroidStudioProjects\OffersByMall\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="6e02e34594ebe9c0501ffda8dd48497f81b82977">
+        <dex dex="C:\Users\Purusharth\AndroidStudioProjects\OffersByMall\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.0_0a667f78c104070799dd1db3cffd6f0b8f1c8afe\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Purusharth\.gradle\caches\modules-2\files-2.1\com.parse.bolts\bolts-applinks\1.3.0\bc535105332645408ef5f1380215cc954b842178\bolts-applinks-1.3.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="bc535105332645408ef5f1380215cc954b842178">
+        <dex dex="C:\Users\Purusharth\AndroidStudioProjects\OffersByMall\app\build\intermediates\transforms\dex\debug\folders\1000\10\bolts-applinks-1.3.0_f804409c15127a04c107310101fb7b4b6b71a771\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Purusharth\AndroidStudioProjects\OffersByMall\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="c5e6490573cd2cc8018417f60ddd251138b6ed61">
+        <dex dex="C:\Users\Purusharth\AndroidStudioProjects\OffersByMall\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-cardview-v7-24.2.1_d26da45fb1ee16cec4ca09034452705147e90406\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Purusharth\AndroidStudioProjects\OffersByMall\app\build\intermediates\exploded-aar\com.google.firebase\firebase-auth-module\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="6bc41d9d6fd12d2ef23c785a259011001f4a1a5b">
+        <dex dex="C:\Users\Purusharth\AndroidStudioProjects\OffersByMall\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-auth-module-9.4.0_0245119ca6695c8b7ec3a5a59742466fcecc8644\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Purusharth\AndroidStudioProjects\OffersByMall\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-fitness\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="8197651ce1af4d89b47f4545cc720bc4f8611e7d">
+        <dex dex="C:\Users\Purusharth\AndroidStudioProjects\OffersByMall\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-fitness-9.4.0_e2b8dc4b3cd6516d3f1df7d9d7468cb93e4a0835\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Purusharth\AndroidStudioProjects\OffersByMall\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="c3c638be6e650b165ab9ae144857b64e82787fad">
+        <dex dex="C:\Users\Purusharth\AndroidStudioProjects\OffersByMall\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-24.2.0_e418e9196c6412042cb5876009917487611097c8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Purusharth\AndroidStudioProjects\OffersByMall\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="f9b41622897665678d31d78e57a361cb0cebcb0d">
+        <dex dex="C:\Users\Purusharth\AndroidStudioProjects\OffersByMall\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-24.2.0_8818f6282bca85916a94eb63bed4204c06880f13\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Purusharth\.gradle\caches\modules-2\files-2.1\com.fasterxml.jackson.core\jackson-databind\2.2.2\3c8f6018eaa72d43b261181e801e6f8676c16ef6\jackson-databind-2.2.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="3c8f6018eaa72d43b261181e801e6f8676c16ef6">
+        <dex dex="C:\Users\Purusharth\AndroidStudioProjects\OffersByMall\app\build\intermediates\transforms\dex\debug\folders\1000\10\jackson-databind-2.2.2_cca0238b3fa8c3185440e56bf19e524706707d56\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Purusharth\AndroidStudioProjects\OffersByMall\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="964f0347958962c149756d7c770b42539273d969">
+        <dex dex="C:\Users\Purusharth\AndroidStudioProjects\OffersByMall\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_5dbca54155727e530c9240757c4861e7e4706fb7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Purusharth\.gradle\caches\modules-2\files-2.1\com.squareup.picasso\picasso\2.5.2\7446d06ec8d4f7ffcc53f1da37c95f200dcb9387\picasso-2.5.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="C:\Users\Purusharth\AndroidStudioProjects\OffersByMall\app\build\intermediates\transforms\dex\debug\folders\1000\10\picasso-2.5.2_c3ca2a0a2c3cdc46fad473f57e09cf346f369527\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Purusharth\AndroidStudioProjects\OffersByMall\app\build\intermediates\exploded-aar\com.google.firebase\firebase-database\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="84bf369090a8f7e293817efbd6ccf31ada1be32b">
+        <dex dex="C:\Users\Purusharth\AndroidStudioProjects\OffersByMall\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-database-9.4.0_0be462817d512d6ab904d06ace734c203b149114\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Purusharth\AndroidStudioProjects\OffersByMall\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-vision\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="670df81539ab71918d49b186598b7eff08ef6563">
+        <dex dex="C:\Users\Purusharth\AndroidStudioProjects\OffersByMall\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-vision-9.4.0_809246e012c805ce7691083d822b5d4e9f26762b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Purusharth\AndroidStudioProjects\OffersByMall\app\build\intermediates\exploded-aar\com.android.support\design\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="23eb0d2998a782213b56168cbf23a0688b9111d9">
+        <dex dex="C:\Users\Purusharth\AndroidStudioProjects\OffersByMall\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-24.2.0_d1d77db29ffe49db9df38958a425c8ec2bd9109e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Purusharth\AndroidStudioProjects\OffersByMall\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="fcc945a86ebcbf527429acb8216ec7dae2c06417">
+        <dex dex="C:\Users\Purusharth\AndroidStudioProjects\OffersByMall\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-24.2.0_e12022e0fcaa3c5c08cb36eb40ba033a7dde10f8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Purusharth\AndroidStudioProjects\OffersByMall\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast-framework\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="03829a2618892d438a1f59c6286699ca1f476e93">
+        <dex dex="C:\Users\Purusharth\AndroidStudioProjects\OffersByMall\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-cast-framework-9.4.0_6fd10c07f7d7ba7e5df751f9f13613b37ed457b6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Purusharth\AndroidStudioProjects\OffersByMall\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-games\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="e6e2251f3d3abf4eecd6bf6919d41fc7af497852">
+        <dex dex="C:\Users\Purusharth\AndroidStudioProjects\OffersByMall\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-games-9.4.0_e778c9d13ec31dfdfd4bd78e71478c3999c2cfc4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Purusharth\AndroidStudioProjects\OffersByMall\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics-impl\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="0ad33eb600f3d80bdff5ce355c90d5533ade652a">
+        <dex dex="C:\Users\Purusharth\AndroidStudioProjects\OffersByMall\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-analytics-impl-9.4.0_56296edcc3e4455c65c6c2cb1c4b4a7c8f4ecedf\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Purusharth\AndroidStudioProjects\OffersByMall\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="d463d8eec1e6c1feef2cec6675ccb47e37c12ee1">
+        <dex dex="C:\Users\Purusharth\AndroidStudioProjects\OffersByMall\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-ads-9.4.0_8142da10d8ae798a4b82f8f1f50f9bc71b1f4521\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Purusharth\AndroidStudioProjects\OffersByMall\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-contextmanager\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="72eacac37fc64e95d53abd2a041bf81a952d8615">
+        <dex dex="C:\Users\Purusharth\AndroidStudioProjects\OffersByMall\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-contextmanager-9.4.0_542a3acaac1a89158169402544e44bfe7ce7caa5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Purusharth\AndroidStudioProjects\OffersByMall\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="045be695d968dd707691cc55d23746dbf8cf569a">
+        <dex dex="C:\Users\Purusharth\AndroidStudioProjects\OffersByMall\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.0_897f41464a1ec3d997821b042a940b7aa3df70c8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Purusharth\AndroidStudioProjects\OffersByMall\app\build\intermediates\exploded-aar\com.google.firebase\firebase-storage\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="98e97da89d4df8e2f6eba63498d3d46a587372f2">
+        <dex dex="C:\Users\Purusharth\AndroidStudioProjects\OffersByMall\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-storage-9.4.0_c5200a3b351cfea78da31b150807507bfa61e3ea\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Purusharth\AndroidStudioProjects\OffersByMall\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="c10df7344e31161852c20bb8143fc37319aa10ec">
+        <dex dex="C:\Users\Purusharth\AndroidStudioProjects\OffersByMall\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-appindexing-9.4.0_73b7f8cc7e53ea18eb5d3cd537dee3f5bb9764d1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Purusharth\AndroidStudioProjects\OffersByMall\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-places\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="e35002351f2d415093a9b564652d4b56be6a0593">
+        <dex dex="C:\Users\Purusharth\AndroidStudioProjects\OffersByMall\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-places-9.4.0_c8012a0f01c7d1a40225b67390841327a4dbf0a9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Purusharth\AndroidStudioProjects\OffersByMall\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="18b5697c65c4fe5b7381613b8b8ae9ac52e26fa7">
+        <dex dex="C:\Users\Purusharth\AndroidStudioProjects\OffersByMall\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-common-9.4.0_63c77299214c4e7482e2f9526d2230ca0715172b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Purusharth\AndroidStudioProjects\OffersByMall\app\build\intermediates\exploded-aar\com.android.volley\volley\1.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="2cd4b982617e544728de0782d718a58ce1b06e3f">
+        <dex dex="C:\Users\Purusharth\AndroidStudioProjects\OffersByMall\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.volley-volley-1.0.0_3bf12363c9db493dcbee99da4562a507a5301d4f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Purusharth\AndroidStudioProjects\OffersByMall\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="a432629397351d3ec7f27a23d258b229b81af08f">
+        <dex dex="C:\Users\Purusharth\AndroidStudioProjects\OffersByMall\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-cast-9.4.0_084d59fa812248fdeeb93cce5cb0e145a13c256b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Purusharth\AndroidStudioProjects\OffersByMall\app\build\intermediates\exploded-aar\com.google.firebase\firebase-database-connection\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="0e4d53465cc141bec58f18a894e4c4e80633fa32">
+        <dex dex="C:\Users\Purusharth\AndroidStudioProjects\OffersByMall\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-database-connection-9.4.0_9a932f5167c1943f50be696e8db765ddfc6a937a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Purusharth\AndroidStudioProjects\OffersByMall\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="0b060160e7daee343f5315b3da91b0ff2d7eed89">
+        <dex dex="C:\Users\Purusharth\AndroidStudioProjects\OffersByMall\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-location-9.4.0_5d0d06d1b239bb6fc1401330a1f2023f7ccaa907\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Purusharth\AndroidStudioProjects\OffersByMall\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wallet\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="954697ee6ea7bdd596babf4f70e8b7a17ca7649e">
+        <dex dex="C:\Users\Purusharth\AndroidStudioProjects\OffersByMall\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-wallet-9.4.0_aae433e78beb8888c8a84ce78ebf4f758d472a6e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Purusharth\AndroidStudioProjects\OffersByMall\app\build\intermediates\exploded-aar\com.google.firebase\firebase-auth-common\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="34762013d39dbe6c656050589c44e8b61b9a2c5d">
+        <dex dex="C:\Users\Purusharth\AndroidStudioProjects\OffersByMall\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-auth-common-9.4.0_5478cf7abc9df97b14b94e02930b0523ad78cc78\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Purusharth\AndroidStudioProjects\OffersByMall\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="4348dd26d83b56c2058b768222c3271bce911724">
+        <dex dex="C:\Users\Purusharth\AndroidStudioProjects\OffersByMall\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-auth-9.4.0_fd1e76e550186d06865c0e04b8f48d1f558ee43b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Purusharth\.gradle\caches\modules-2\files-2.1\com.fasterxml.jackson.core\jackson-core\2.2.2\d20be6a5ddd6f8cfd36ebf6dea329873a1c41f1b\jackson-core-2.2.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="d20be6a5ddd6f8cfd36ebf6dea329873a1c41f1b">
+        <dex dex="C:\Users\Purusharth\AndroidStudioProjects\OffersByMall\app\build\intermediates\transforms\dex\debug\folders\1000\10\jackson-core-2.2.2_10f445cfe5394c373c240e4c5cba74879a29910b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Purusharth\AndroidStudioProjects\OffersByMall\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="f3ee23ef25c9a8fe3d40246d0b7097267963a612">
+        <dex dex="C:\Users\Purusharth\AndroidStudioProjects\OffersByMall\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-24.2.0_bd9a18a63777bb9c3c8568edefa559e0af080af8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Purusharth\AndroidStudioProjects\OffersByMall\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-clearcut\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="dd763e0269f2854f5828ae62dd968b80bff6a0db">
+        <dex dex="C:\Users\Purusharth\AndroidStudioProjects\OffersByMall\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-clearcut-9.4.0_d47715097a06620157c06298891efacd97d90471\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Purusharth\AndroidStudioProjects\OffersByMall\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gass\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="b15f898c9047f9d612a63000126b485dd024eaac">
+        <dex dex="C:\Users\Purusharth\AndroidStudioProjects\OffersByMall\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-gass-9.4.0_bc0f82c3f3bbe4ed3ad0fab3002cf8c46f5e146b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Purusharth\AndroidStudioProjects\OffersByMall\app\build\intermediates\exploded-aar\com.facebook.android\facebook-android-sdk\4.9.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="5c9b831cf63629b8b3873959e52515340484a880">
+        <dex dex="C:\Users\Purusharth\AndroidStudioProjects\OffersByMall\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.facebook.android-facebook-android-sdk-4.9.0_5b2ed0a1d01293aa83ba26d558e2bf57e468e4d5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Purusharth\AndroidStudioProjects\OffersByMall\app\build\intermediates\exploded-aar\com.google.firebase\firebase-crash\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="b9d48baf96c7e187991a9befa833bebd181960a9">
+        <dex dex="C:\Users\Purusharth\AndroidStudioProjects\OffersByMall\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-crash-9.4.0_07b4387750ab509a1d5f222d71ebb943f8319e35\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Purusharth\AndroidStudioProjects\OffersByMall\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="c755536e5a100d9c76c8ea0b72f76c018f7a9de2">
+        <dex dex="C:\Users\Purusharth\AndroidStudioProjects\OffersByMall\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-24.2.0_e2a80b983a9dc5e298fc246fdd2d2a0e9ecfc298\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Purusharth\AndroidStudioProjects\OffersByMall\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\23.0.0\jars\libs\internal_impl-23.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="03d38bb042efe3e5ce27ba66b729a9523c36d8fe">
+        <dex dex="C:\Users\Purusharth\AndroidStudioProjects\OffersByMall\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.0.0_a527326f04aef0996b357d11151d12e69fc25e2c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Purusharth\AndroidStudioProjects\OffersByMall\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth-base\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="58c9f5ee817fdb8b658fd7455fadfb74119f7ee9">
+        <dex dex="C:\Users\Purusharth\AndroidStudioProjects\OffersByMall\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-auth-base-9.4.0_cb8602ba77cc2f5ff480091420622233c858baeb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Purusharth\AndroidStudioProjects\OffersByMall\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wearable\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="b1acf13f1b7d8232af78a30833f9a966d1394c84">
+        <dex dex="C:\Users\Purusharth\AndroidStudioProjects\OffersByMall\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-wearable-9.4.0_3c486a40f3b17892872073b7cfba0a7502589b84\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Purusharth\AndroidStudioProjects\OffersByMall\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="ece40b09e9d4d488bc270cf6af5a9af73bc1cfa3">
+        <dex dex="C:\Users\Purusharth\AndroidStudioProjects\OffersByMall\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-gcm-9.4.0_4a3e753bcce0f992f93c552574f70fe5944817a0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Purusharth\AndroidStudioProjects\OffersByMall\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-iid\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="59a16a4a42d25b2c243dd1e8aea87d06895b4a06">
+        <dex dex="C:\Users\Purusharth\AndroidStudioProjects\OffersByMall\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-iid-9.4.0_aee9b14992235b61699910bd654c5aa07b525103\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Purusharth\AndroidStudioProjects\OffersByMall\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="771b3cc0e597b54da25f8086ba73180c59c6bc71">
+        <dex dex="C:\Users\Purusharth\AndroidStudioProjects\OffersByMall\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.0_1e5627d4e7d7acef439529a8c8323ce9830e8dbb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Purusharth\.gradle\caches\modules-2\files-2.1\com.firebase\firebase-client-android\2.3.1\be29b24233711c419ce935aa0a1b12ebc49d1c9a\firebase-client-android-2.3.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="be29b24233711c419ce935aa0a1b12ebc49d1c9a">
+        <dex dex="C:\Users\Purusharth\AndroidStudioProjects\OffersByMall\app\build\intermediates\transforms\dex\debug\folders\1000\10\firebase-client-android-2.3.1_88c4235b0bb43862b2193b09982721af688b1fda\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Purusharth\AndroidStudioProjects\OffersByMall\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="b7e9e0a0632d1e7981de7d7ebae40da0b8c57096">
+        <dex dex="C:\Users\Purusharth\AndroidStudioProjects\OffersByMall\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_bd295c9c69488d128976ad903fb3c7ac014fb05c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Purusharth\AndroidStudioProjects\OffersByMall\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-panorama\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="d49118ba67a101c4895f0581f17142cba85b330b">
+        <dex dex="C:\Users\Purusharth\AndroidStudioProjects\OffersByMall\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-panorama-9.4.0_f0dcbf937c5a5ba38e82c1b5a059f5774e9bd63d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Purusharth\.gradle\caches\modules-2\files-2.1\com.fasterxml.jackson.core\jackson-annotations\2.2.2\285cb9c666f0f0f3dd8a1be04e1f457eb7b15113\jackson-annotations-2.2.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="285cb9c666f0f0f3dd8a1be04e1f457eb7b15113">
+        <dex dex="C:\Users\Purusharth\AndroidStudioProjects\OffersByMall\app\build\intermediates\transforms\dex\debug\folders\1000\10\jackson-annotations-2.2.2_f28f172fa0fe343be53bf91a6eff1bfc12d58b28\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Purusharth\AndroidStudioProjects\OffersByMall\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tagmanager-api\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="7ea53c4458b80e8ea71f7fd6831fa184c501377b">
+        <dex dex="C:\Users\Purusharth\AndroidStudioProjects\OffersByMall\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tagmanager-api-9.4.0_27321a2e3199c2655338cb3a4276db911685f1a0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Purusharth\.gradle\caches\modules-2\files-2.1\com.firebase\tubesock\0.0.11\d37cb67277928cf59344b4196af8d9cee1f1a27c\tubesock-0.0.11.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="d37cb67277928cf59344b4196af8d9cee1f1a27c">
+        <dex dex="C:\Users\Purusharth\AndroidStudioProjects\OffersByMall\app\build\intermediates\transforms\dex\debug\folders\1000\10\tubesock-0.0.11_740bd95035e2dc752ed80c758947b4184c2132f9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Purusharth\.gradle\caches\modules-2\files-2.1\com.parse.bolts\bolts-tasks\1.3.0\8a62fd16fcc1c06f284fc98e6cbded2a5af1dd4c\bolts-tasks-1.3.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="8a62fd16fcc1c06f284fc98e6cbded2a5af1dd4c">
+        <dex dex="C:\Users\Purusharth\AndroidStudioProjects\OffersByMall\app\build\intermediates\transforms\dex\debug\folders\1000\10\bolts-tasks-1.3.0_5dcff6bab5993f071ab345e92fdea9087f663642\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Purusharth\AndroidStudioProjects\OffersByMall\app\build\intermediates\exploded-aar\com.google.firebase\firebase-storage-common\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="c8f5d56f8f8a287c95e02c542baade138a378048">
+        <dex dex="C:\Users\Purusharth\AndroidStudioProjects\OffersByMall\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-storage-common-9.4.0_ab6d3f7a9f204b784266af5f7c33f96b96227dd3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Purusharth\AndroidStudioProjects\OffersByMall\app\build\intermediates\exploded-aar\com.google.firebase\firebase-config\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="dab6944860c986980dcc6002a5ca2f127b587317">
+        <dex dex="C:\Users\Purusharth\AndroidStudioProjects\OffersByMall\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-config-9.4.0_337e0cfd5284d768230f99f2cb309ef79c675dd7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Purusharth\AndroidStudioProjects\OffersByMall\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-safetynet\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="7bc6ea2bcfd6de4b7085e0f3a01616c5c8e0e2ad">
+        <dex dex="C:\Users\Purusharth\AndroidStudioProjects\OffersByMall\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-safetynet-9.4.0_7e54fbb8b1180d21e7c1e64f47a601bd9fb24406\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Purusharth\AndroidStudioProjects\OffersByMall\app\build\intermediates\exploded-aar\com.android.support\multidex\1.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="78ea232052df889856dcb7b7b542707c89bb3bfb">
+        <dex dex="C:\Users\Purusharth\AndroidStudioProjects\OffersByMall\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-multidex-1.0.1_bab74024e0a5f2c3f4ddf23431abe3b6ab3815d4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Purusharth\AndroidStudioProjects\OffersByMall\app\build\intermediates\exploded-aar\com.google.firebase\firebase-messaging\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="4b6d9b70f93bbeb872d0948bc064ae3f3f2bcbac">
+        <dex dex="C:\Users\Purusharth\AndroidStudioProjects\OffersByMall\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-messaging-9.4.0_89595892ae1775a1756034fae86b26b588b964a6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Purusharth\AndroidStudioProjects\OffersByMall\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="e454c414a069241ee08444d187f2dd3a702596b5">
+        <dex dex="C:\Users\Purusharth\AndroidStudioProjects\OffersByMall\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-maps-9.4.0_9177f1aae0a843c24993431dec7b2521ac82ead3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Purusharth\AndroidStudioProjects\OffersByMall\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads-lite\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="147edbec6bcea71fd675ecc63cae3319637ec2b4">
+        <dex dex="C:\Users\Purusharth\AndroidStudioProjects\OffersByMall\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-ads-lite-9.4.0_052aebbb587b35ae346390b487a8aa91ad56da21\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Purusharth\AndroidStudioProjects\OffersByMall\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="8a36d229011e75f0caef408e1adf0d3fd4d94e02">
+        <dex dex="C:\Users\Purusharth\AndroidStudioProjects\OffersByMall\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tasks-9.4.0_cb4dc7496121bb9678e3567d146732c81987e1ac\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Purusharth\AndroidStudioProjects\OffersByMall\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-identity\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="5e04c0b3683ca45b343284d93e5594b5f9044551">
+        <dex dex="C:\Users\Purusharth\AndroidStudioProjects\OffersByMall\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-identity-9.4.0_5f8e4f20f62607204ca58d5a18cdaddff63b6d71\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Purusharth\AndroidStudioProjects\OffersByMall\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="3dee4ce5844d39d843d503fb8fe04e51e5bfffac">
+        <dex dex="C:\Users\Purusharth\AndroidStudioProjects\OffersByMall\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-base-9.4.0_e0f6e4148dab6988cb0b681064c52bfc8fd5bd6e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Purusharth\.gradle\caches\modules-2\files-2.1\com.firebase\firebase-client-jvm\2.3.1\4d53b7d6983247af02b8fe7e4228fff555a5e828\firebase-client-jvm-2.3.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="4d53b7d6983247af02b8fe7e4228fff555a5e828">
+        <dex dex="C:\Users\Purusharth\AndroidStudioProjects\OffersByMall\app\build\intermediates\transforms\dex\debug\folders\1000\10\firebase-client-jvm-2.3.1_47d62cf6e5480adef8a95e7171a03a3cc9e54132\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Purusharth\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.2.1\support-annotations-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="C:\Users\Purusharth\AndroidStudioProjects\OffersByMall\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-24.2.1_c3520ceebb681869dd1895caf4e0d39fded5a746\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Purusharth\AndroidStudioProjects\OffersByMall\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics-impl\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="a440fb3fec30ff925e9f601cc458fb6671834cb2">
+        <dex dex="C:\Users\Purusharth\AndroidStudioProjects\OffersByMall\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-analytics-impl-9.4.0_c9633709ed87ac8fd7b6b5f52141ef24ecd8adb7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Purusharth\AndroidStudioProjects\OffersByMall\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="beac40bcc8a320a896dd15f5109cfcaea5e1e0e3">
+        <dex dex="C:\Users\Purusharth\AndroidStudioProjects\OffersByMall\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-24.2.0_8560faa9972d28e7a17d7d0c0867058251ba32f5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Purusharth\AndroidStudioProjects\OffersByMall\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="032a4b53def5e2ceedfc2e793b126c0163cfa1dd">
+        <dex dex="C:\Users\Purusharth\AndroidStudioProjects\OffersByMall\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.0_c6193acea2b1dfa23da3b4c53ed57d4dd675dde5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Purusharth\AndroidStudioProjects\OffersByMall\app\build\intermediates\exploded-aar\com.google.firebase\firebase-auth\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="4b630471536351be7c3c3100735c75b7ad2cbd84">
+        <dex dex="C:\Users\Purusharth\AndroidStudioProjects\OffersByMall\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-auth-9.4.0_42656374bb1dcb32cef9a7da00e2240c7fb2c18d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Purusharth\AndroidStudioProjects\OffersByMall\app\build\intermediates\exploded-aar\jp.wasabeef\recyclerview-animators\2.2.4\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="ee2cd959699a02bcfa22668f9235a5c1ca256fab">
+        <dex dex="C:\Users\Purusharth\AndroidStudioProjects\OffersByMall\app\build\intermediates\transforms\dex\debug\folders\1000\10\jp.wasabeef-recyclerview-animators-2.2.4_69b8766de5a010098f08fe6e6785de9a81f96740\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Purusharth\AndroidStudioProjects\OffersByMall\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="6eb9107eb34d2fe2b020662b7fbbec991dcba846">
+        <dex dex="C:\Users\Purusharth\AndroidStudioProjects\OffersByMall\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-24.2.0_cc4796542c8108fa0b9f2641c2736d7de10cf64a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Purusharth\AndroidStudioProjects\OffersByMall\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tagmanager\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="e5e8e535d15834e824817bdf5370556f62b4b2a5">
+        <dex dex="C:\Users\Purusharth\AndroidStudioProjects\OffersByMall\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tagmanager-9.4.0_5e20f696d93e52b2f543c685c3887c2f88edc7f3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Purusharth\AndroidStudioProjects\OffersByMall\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\23.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="d358b3dd49a7c67844622dcbc9cf4339e13952ce">
+        <dex dex="C:\Users\Purusharth\AndroidStudioProjects\OffersByMall\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-mediarouter-v7-23.0.0_c6d63f37b6a059c81e6f227572d5c61047038eb2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Purusharth\AndroidStudioProjects\OffersByMall\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="88848548ab56d4fbf3d2d1b0c85bf1ff9b4c1f4b">
+        <dex dex="C:\Users\Purusharth\AndroidStudioProjects\OffersByMall\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-analytics-9.4.0_d3d9f26738a767d26973e45bca200e035c07ca25\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Purusharth\AndroidStudioProjects\OffersByMall\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-plus\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="dd51b31890731591729f046d7a09c4fe4e483ed1">
+        <dex dex="C:\Users\Purusharth\AndroidStudioProjects\OffersByMall\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-plus-9.4.0_e6f407c6f6f1ab41657d39dc6386efa1fde4860b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Purusharth\AndroidStudioProjects\OffersByMall\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="c84e216d9bf618464d6b9564d71d9a656433e7c4">
+        <dex dex="C:\Users\Purusharth\AndroidStudioProjects\OffersByMall\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-24.2.0_747e911073f72d1e5d3e1eb7918ab1908bf1c01c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Purusharth\AndroidStudioProjects\OffersByMall\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appinvite\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="736d8893fb702f128a153c9d87c9c29724d37872">
+        <dex dex="C:\Users\Purusharth\AndroidStudioProjects\OffersByMall\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-appinvite-9.4.0_8c4ca672c8fad1b081a4a395222c21a3ffb5525e\classes.dex" />
+    </item>
+
+</items>

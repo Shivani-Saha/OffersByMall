@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8"?>
+    <android.support.v7.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:layout_marginTop="10dp"
+
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:padding="10dp"
+            android:layout_marginLeft="5dp"
+            android:orientation="vertical">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:orientation="horizontal"
+                android:weightSum="1"
+                android:gravity="center"
+                android:layout_height="wrap_content">
+                <TextView
+                    android:layout_width="0dp"
+                    android:text=""
+                    android:textSize="20sp"
+                    android:id="@+id/mallName"
+                    android:gravity="center|left"
+                    android:layout_height="match_parent"
+                    android:layout_weight="0.7"/>
+                <Button
+                    android:layout_weight="0.3"
+                    android:text="Approve"
+                    android:id="@+id/btn"
+                    android:layout_width="0dp"
+                    android:layout_height="40dp" />
+            </LinearLayout>
+
+            <View
+                android:layout_width="match_parent"
+                android:background="#888888"
+                android:layout_height="1dp"/>
+            <LinearLayout
+                android:layout_marginTop="5dp"
+                android:layout_width="match_parent"
+                android:orientation="horizontal"
+                android:weightSum="1"
+                android:layout_height="wrap_content">
+                <TextView
+                    android:layout_width="0dp"
+                    android:layout_weight="0.4"
+                    android:text="Owner"
+                    android:layout_height="wrap_content" />
+                <TextView
+                    android:layout_width="0dp"
+                    android:text=""
+                    android:id="@+id/ownerName"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="0.6"/>
+
+            </LinearLayout>
+            <LinearLayout
+                android:layout_marginTop="5dp"
+                android:layout_width="match_parent"
+                android:orientation="horizontal"
+                android:weightSum="1"
+                android:layout_height="wrap_content">
+                <TextView
+                    android:layout_width="0dp"
+                    android:layout_weight="0.4"
+                    android:text="Shop"
+                    android:layout_height="wrap_content" />
+                <TextView
+                    android:layout_width="0dp"
+                    android:text=""
+                    android:id="@+id/shopName"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="0.6"/>
+            </LinearLayout>
+            <LinearLayout
+                android:layout_marginTop="5dp"
+                android:layout_width="match_parent"
+                android:orientation="horizontal"
+                android:weightSum="1"
+                android:layout_height="wrap_content">
+                <TextView
+                    android:layout_width="0dp"
+                    android:layout_weight="0.4"
+                    android:text="Shop No."
+                    android:layout_height="wrap_content" />
+                <TextView
+                    android:layout_width="0dp"
+                    android:text=""
+                    android:id="@+id/shopNo"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="0.6"/>
+            </LinearLayout>
+            <LinearLayout
+                android:layout_marginTop="5dp"
+                android:layout_width="match_parent"
+                android:orientation="horizontal"
+                android:weightSum="1"
+                android:layout_height="wrap_content">
+                <TextView
+                    android:layout_width="0dp"
+                    android:layout_weight="0.4"
+                    android:text="Contact"
+                    android:layout_height="wrap_content" />
+                <TextView
+                    android:layout_width="0dp"
+                    android:text=""
+                    android:id="@+id/contact"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="0.6"/>
+            </LinearLayout>
+        </LinearLayout>
+    </android.support.v7.widget.CardView>

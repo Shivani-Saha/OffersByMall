@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+        <ListPreference
+            android:title="@string/city"
+            android:dialogTitle="@string/city"
+            android:id="@+id/city_spinner"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" />
+
+        <ListPreference
+            android:title="@string/malls"
+            android:dialogTitle="@string/malls"
+            android:id="@+id/malls_spinner"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" />
+
+        <ListPreference
+            android:title="@string/category"
+            android:dialogTitle="@string/category"
+            android:id="@+id/category_spinner"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" />
+<!--        <Button
+            android:id="@+id/sumbmit"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Find offers"
+            android:background="#0a0101"
+            android:onClick="offers"
+            android:textColor="#ffffff" />
+    -->
+
+</PreferenceScreen>

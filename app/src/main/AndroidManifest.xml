@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+
+    package="com.example.adarsh.offersbymall">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <uses-permission android:name="com.google.android.providers.gsf.permission.READ_GSERVICES" />
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+
+    <meta-data
+        android:name="com.google.android.geo.API_KEY"
+        android:value="AIzaSyDa3VLoBNbHOx2z6W8Xby2LZuTHjmgBMPs" />
+
+    <application
+
+        android:name="android.support.multidex.MultiDexApplication"
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity
+            android:name="com.app.adarsh.offersbymall.LoginActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.app.adarsh.offersbymall.VListSettingsActivity"
+            android:parentActivityName="com.app.adarsh.offersbymall.VendorActivity" />
+
+        <meta-data
+            android:name="com.facebook.sdk.ApplicationId"
+            android:value="@string/facebook_app_id" />
+
+        <activity
+            android:name="com.app.adarsh.offersbymall.HomeActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.app.adarsh.offersbymall.SplashActivity"
+            android:screenOrientation="portrait"
+            android:theme="@style/Theme.AppCompat.NoActionBar">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.facebook.FacebookActivity"
+            android:configChanges="keyboard|keyboardHidden|screenLayout|screenSize|orientation"
+            android:label="@string/app_name"
+            android:screenOrientation="portrait"
+            android:theme="@android:style/Theme.Translucent.NoTitleBar"
+            tools:replace="android:theme" />
+
+        <provider
+            android:name="com.facebook.FacebookContentProvider"
+            android:authorities="com.facebook.app.FacebookContentProvider"
+            android:exported="true" />
+
+        <activity
+            android:name="com.app.adarsh.offersbymall.ShopholderRegister"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.app.adarsh.offersbymall.ProfileActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.app.adarsh.offersbymall.City_MallsActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.app.adarsh.offersbymall.CategorySelectionActiivity"
+            android:parentActivityName="com.app.adarsh.offersbymall.HomeActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.app.adarsh.offersbymall.DifferentMallsActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.app.adarsh.offersbymall.OfferActivity"
+            android:screenOrientation="portrait" />
+        <activity android:name="com.app.adarsh.offersbymall.AboutActivity" />
+        <activity android:name="com.app.adarsh.offersbymall.skipActivity" />
+        <activity android:name="com.app.adarsh.offersbymall.ResetPassword" />
+        <activity android:name="com.app.adarsh.offersbymall.Signup" />
+        <activity android:name="com.app.adarsh.offersbymall.Login" />
+        <activity android:name="com.app.adarsh.offersbymall.Admin" />
+        <activity android:name="com.app.adarsh.offersbymall.AdminView" />
+        <activity
+            android:name="com.app.adarsh.offersbymall.Maps"
+            android:parentActivityName="com.app.adarsh.offersbymall.CategorySelectionActiivity" />
+        <activity android:name="com.app.adarsh.offersbymall.Adminpannel" />
+        <activity android:name="com.app.adarsh.offersbymall.VendorActivity" />
+        <activity android:name="com.app.adarsh.offersbymall.FirstActivity"
+            android:theme="@style/Theme.AppCompat.NoActionBar"></activity>
+    </application>
+
+</manifest>

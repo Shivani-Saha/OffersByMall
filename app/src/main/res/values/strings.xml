@@ -1,0 +1,147 @@
+<resources>
+    <string name="app_name">OffersByMall</string>
+    <string name="g_id">555326672814-g0ms2hjmosj5pq7nadb7a1tv647enato.apps.googleusercontent.com</string>
+    <string name="facebook_app_id">1860209070859387</string>
+    <string-array name="cityMall_name">
+        <item>SELECT CITYWALK</item>
+        <item>DLF EMPORIO</item>
+        <item>CITY SQUARE MALL</item>
+        <item>TDI MALL</item>
+        <item>ANSAL PLAZA</item>
+        <item>GIP</item>
+    </string-array>
+    <string-array name="gurgaon_mall">
+        <item>AMBIENCE MALL</item>
+        <item>SAHARA MALL</item>
+        <item>DLF CITY CENTRE MALL</item>
+        <item>MGF MALL</item>
+        <item> DLF MEGA MALL</item>
+        <item>CENTRAL</item>
+
+        <item>GRAND MALL</item>
+        <item>JMD REGENT PLAZA</item>
+        <item>CENTRAL</item>
+        <item>VIPUL AGORA MALL</item>
+        <item>PLAZA MALL</item>
+        <item>RAHEJA MALL</item>
+
+
+    </string-array>
+    <string name="start">GOT IT</string>
+
+    <string name="slide_1_title">Best Deals</string>
+
+    <string name="slide_1_desc">Now, browse all the deals/offers, from all the malls around you, all at one place.</string>
+
+    <string name="slide_2_title">Top Deals</string>
+
+    <string name="slide_2_desc">Daily Top-Deals, from your favourite malls near you</string>
+
+    <string name="slide_3_title">Shop Registration</string>
+
+    <string name="slide_3_desc">Register your shop, to reach out to hundreds of our customers</string>
+
+    <string name="slide_4_title">UI</string>
+
+    <string name="slide_4_desc">Seamless UI, making your browsing experience fun and easy</string>
+
+    <string-array name="Malls_name">
+        <item>NEW DELHI</item>
+        <item>GHAZIABAD</item>
+        <item>GURGAON</item>
+        <item>NOIDA</item>
+        <item>FARIDABAD</item>
+        <item>MEERUT</item>
+
+    </string-array>
+    <string-array name="cityMalls_name">
+        <item>Select Malls</item>
+
+    </string-array>
+    <string-array name="Category_Shops">
+        <item>Select Category</item>
+        <item>Clothing</item>
+        <item>Footwear</item>
+        <item>Electronics</item>
+        <item>Home and Lifestyle</item>
+    </string-array>
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+    <string-array name="ghaziabad_malls">
+        <item>SHOPPRIX MALL</item>
+        <item>SILVER CITY MALL</item>
+        <item>MAHAGUN METRO MALL</item>
+        <item>PACIFIC MALL</item>
+        <item>SHIPRA MALL</item>
+        <item>GAUR CENTRAL MALL</item>
+        <item>OPULENT MALL</item>
+        <item>GALAXIE MALL</item>
+        <item>EAST DELHI MALL</item>
+        <item>MARK MALL</item>
+        <item>PARSHVANATH</item>
+        <item>RED MALL</item>
+
+    </string-array>
+    <string-array name="noida_malls">
+        <item>CENTERSTAGE MALL</item>
+        <item>DLF MALL</item>
+        <item>GIP MALL</item>
+        <item>SAB MALL</item>
+        <item>SUPERTECH SHOPRIX MALL</item>
+        <item>WAVE MALL</item>
+
+        <item>SPICE WORLD MALL</item>
+        <item>CENTRE STAGE MALL</item>
+        <item>ANSAL MALL</item>
+
+
+    </string-array>
+
+
+    <string-array name="faridabad_malls">
+        <item>PARSMATH MALL</item>
+        <item>EROS EF3 MALL</item>
+        <item>CROWN PLAZA </item>
+        <item>ELDECO STATION</item>
+        <item>PRISTINE MALL</item>
+        <item>SRS MALL</item>
+
+    </string-array>
+    <string-array name="meerut_malls">
+        <item>PVS MALL</item>
+        <item>MELANGE MALL</item>
+        <item>CITY SQUARE MALL </item>
+        <item>PARADISE MALL</item>
+        <item>ERA MALL</item>
+        <item>SHOPPRIX MALL</item>
+
+    </string-array>
+    <string-array name="newdelhi_malls">
+        <item>ANSAL PLAZA</item>
+        <item>DLF EMPORIO</item>
+        <item>METRO WALK MALL </item>
+        <item>SELECT CITY MALL</item>
+        <item>TDI MALL</item>
+        <item>V3S MALL</item>
+
+        <item>AMBIENCE MALL</item>
+        <item>PACIFIC MALL</item>
+        <item>WEST GATE MALL</item>
+        <item>MOMENTS MALL</item>
+        <item>STAR CITY MALL</item>
+        <item>CITY SQUARE MALL</item>
+
+    </string-array>
+
+    <string name="about_app">
+        Well, Hello there!\nIn this digital world of possibilities, where almost everything is available to you on your fingertips literally! But out of myraid of applications today, did you ever feel the need to have something that could make your shopping experience, easier, cheaper and hence better? Yes, i\'m sure you have.... who whouldn\'t want that?\nSo,let me introduce you to this amazing application that will let see the best offers available out of the million offers at all the stores from all the malls near you . Simple! Isn\'t it ???\n           Here\'s to having an easy laid back Sunday after the week of hardwork and not worrying about where to go for that microwave you have been keeping asidefor so long just because you didn\'t have enough time to go and check out the offers in all the malls and be sure you will be getting the best deal. Well.... Now with  \"Offers by Mall\" you will.....\nHappy Shopping People!!!
+    </string>
+
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="settings">Settings</string>
+    <string name="city">City</string>
+    <string name="malls">Mall</string>
+    <string name="category">Category</string>
+</resources>
